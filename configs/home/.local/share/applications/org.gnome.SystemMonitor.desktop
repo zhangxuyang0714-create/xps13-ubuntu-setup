@@ -1,0 +1,7 @@
+[Desktop Entry]
+# 让 GNOME 官方 system-monitor 扩展找到“系统监视器”：实际打开 Ubuntu 默认的 Resources。删除本文件即可还原。
+Type=Application
+Name=Resources
+Exec=resources
+Icon=net.nokyan.Resources
+NoDisplay=true
